@@ -103,7 +103,8 @@ ul .btn {
 }
 .nav-links .btn1 {
   background-color: var(--accent-color);
-      transition: all 0.5s ease-in-out;
+    transition: all 0.5s ease-in-out;
+    border: none;
   color: white;
 }
 .first-sec {
