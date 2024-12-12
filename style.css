@@ -103,6 +103,7 @@ ul .btn {
 }
 .nav-links .btn1 {
   background-color: var(--accent-color);
+      transition: all 0.5s ease-in-out;
   color: white;
 }
 .first-sec {
@@ -135,6 +136,7 @@ ul .btn {
   border-radius: 8px;
   background-color: var(--accent-color);
   cursor: pointer;
+      transition: all 0.5s ease-in-out;
 }
 .Started:hover, .btn1:hover{
   background-color:#e74694;
