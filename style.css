@@ -93,6 +93,9 @@ p {
   margin: 0 18px;
   color: var(--Secondary-text-color);
 }
+ul li a:hover{
+  color: var(--banner-color);
+}
 ul .btn {
   padding: 12px 24px;
   border: 1px solid var(--accent-color);
