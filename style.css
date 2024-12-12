@@ -136,6 +136,10 @@ ul .btn {
   background-color: var(--accent-color);
   cursor: pointer;
 }
+.Started:hover, .btn1:hover{
+  background-color:#e74694;
+
+}
 .sec-img img {
   height: 350px;
   width: 460px;
